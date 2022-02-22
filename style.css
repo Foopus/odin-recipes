@@ -1,0 +1,57 @@
+/* French Date Stylesheet */
+
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    background-color: black;
+}
+
+.intro {
+    display: inline-block;
+    background-color: black;
+    color: bisque;
+    font-weight: bold;
+    border-left-color: navy;
+    border-left-width: 8px;
+    border-top-color: white;
+    border-top-width: 8px;
+    border-bottom-color: white;
+    border-bottom-width: 8px;
+    border-right-color: maroon;
+    border-right-width: 8px;
+    border-style: double;
+}
+
+.img {
+    border-left-color: navy;
+    border-left-width: 8px;
+    border-top-color: black;
+    border-top-width: 8px;
+    border-bottom-color: black;
+    border-bottom-width: 8px;
+    border-right-color: maroon;
+    border-right-width: 8px;
+    border-style: double;
+}
+
+.button {
+    background-color: black;
+}
+
+.first {
+    color:navy;
+    font-weight: bold;
+}
+
+.second {
+    color: white;
+    font-weight: bold;
+}
+
+.third {
+    color: maroon;
+    font-weight: bold;
+}
